@@ -6,6 +6,14 @@ Geely Auto, a Chinese automobile company, seeks to enter the US market and compe
 ## Business Goal
 The goal is to model car prices based on independent variables, aiding management in understanding price variations and making informed decisions on design and business strategy for the US market.
 
+## Steps Involved
+
+1. Data Cleaning and Preparation
+2. Visualising data
+3. Deriving new features
+4. Bivariate Analysis
+
+   
 ### Key Highlights:
 
 1. **Data Overview:**
